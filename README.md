@@ -1,7 +1,7 @@
 # 📊 ESG Data Analysis and Statistical Testing
 
 # 📌 Project Overview
-This Jupyter notebook performs comprehensive ESG (Environmental, Social, and Governance) performance analysis using statistical methods to compare ESG scores across different industry groups and regions.  
+This notebook performs comprehensive ESG (Environmental, Social, and Governance) performance analysis using statistical methods to compare ESG scores across different industry groups and regions.  
 The analysis includes descriptive statistics, normality testing, homogeneity of variance assessment, and advanced statistical tests including non-parametric comparisons and post-hoc analysis.
 
 # 📁 Dataset
